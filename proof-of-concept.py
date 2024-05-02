@@ -1,5 +1,3 @@
-# USE AT YOUR OWN RISK!!!!
-#
 # Requires eyed3 and plexapi libraries, written & tested in python 3.9
 
 from plexapi.myplex import MyPlexAccount
